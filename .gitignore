@@ -5,3 +5,5 @@ Release
 cmake-build-*/
 .idea/
 /build/
+/HMCL/target
+HMCL/Cargo.lock
