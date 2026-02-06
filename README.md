@@ -5,11 +5,11 @@ HMCL Launcher for Windows.
 ## Setup
 1. Clone this repository.
 2. Run `cargo run` in your terminal.
-```console
-git clone https://github.com/HMCL-dev/HMCLauncher.git
-cd HMCLauncher
-cargo run
-```
+   ```
+   git clone https://github.com/HMCL-dev/HMCLauncher.git
+   cd HMCLauncher
+   cargo run
+   ```
 
 ## License
 
