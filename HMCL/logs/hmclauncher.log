@@ -1,0 +1,7 @@
+[06:59:38] [HMCLauncher] *** HMCL Launcher 3.7.1 ***
+[06:59:38] [HMCLauncher] System Architecture: X86_64
+[06:59:38] [HMCLauncher] Working directory: D:\hmr-BH\Code\Rust\HMCLauncher\hmcl\target\release
+[06:59:38] [HMCLauncher] Exe File: D:\hmr-BH\Code\Rust\HMCLauncher\hmcl\target\release\hmcl-launcher.exe
+[06:59:38] [HMCLauncher] Bundled JRE: Not Found
+[06:59:38] [HMCLauncher] Using Java: C:\Program Files\Zulu\zulu-25\bin\javaw.exe (Version 25.0.2.0)
+[06:59:38] [HMCLauncher] Launching Java: "C:\\Program Files\\Zulu\\zulu-25\\bin\\javaw.exe" "-Xmx1G" "-XX:MinHeapFreeRatio=5" "-XX:MaxHeapFreeRatio=15" "-jar" "hmcl-launcher.exe"
